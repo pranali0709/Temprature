@@ -1,2 +1,2 @@
-# Temprature
-This is temprature conversation website which converts temprature from celcius to Kelvin and so on
+# temperature-converter-Website-using-html-css-JavaScript
+![temperature-converter-Website-using-html-css-JavaScript](img/github_cover.jpeg)
